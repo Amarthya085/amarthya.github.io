@@ -1,6 +1,6 @@
 # Aspiring ML Engineer/AI Engineer/Software Development Ebgineer
 
-##About Me
+###About Me
 
 Hi, I’m Amarthya Kathula, a Computer Science Master’s student at ASU with a passion for deploying machine learning models, especially in computer vision, and fine-tuning large language models (LLMs) and multi-modal LLMs (mLLMs). I love turning data into intelligent systems and bringing AI from research to real-world applications. I’m also interested in optimizing AI models for lightweight and mobile-friendly deployment, ensuring they run efficiently even on resource-constrained devices. Beyond AI, I enjoy software development and staying on top of the latest tech trends—because let’s be honest, in this field, if you blink, you might miss a new framework release.
 
@@ -33,7 +33,8 @@ Designed a scalable image classification pipeline using FastAPI for the backend,
 Developed a visual search system for mobile devices using MobileClip by Apple, enabling image retrieval based on text prompts and deployed using Core ML and TensorFlow Lite, achieving inference time of 50-60ms per query
 
 ### Anomaly Detection for Spatial Data (Course Research Project)
-####Tech Stack: Generative Models, Image Processing
+[link](https://github.com/Amarthya085/Anomaly-Detection/tree/master)
+[Tech Stack: Generative Models, Image Processing]
 Developed an anomaly detection system for spatial data using Masked Autoregressive Flows to generate synthetic negative images and combined with DeepLabV3+ ResNet101 for segmentation and anomaly detection
 
 ### TurtleBot Simulation (Course Project)
