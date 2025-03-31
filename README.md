@@ -1,4 +1,4 @@
-# Aspiring ML Engineer/AI Engineer/Software Development Ebgineer
+# Aspiring ML Engineer/AI Engineer/Software Development Engineer
 
 ## About Me
 
