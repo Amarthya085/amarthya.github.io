@@ -1,6 +1,4 @@
-# amarthya.github.io
-
-#New Grad #ASU, Aspiring ML Engineer/AI Engineer/Software Development Engineer
+# Portfolio
 
 ###Education
 Computer Science, Masters - Arizona State University, Tempe, AZ, USA
