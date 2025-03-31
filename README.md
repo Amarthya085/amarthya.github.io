@@ -25,19 +25,24 @@ P.S. I’m currently looking for opportunities in Machine Learning, Computer Vis
 
 ## Projects
 ### AWS-Based Image Classification System
-#### Tech Stack: Python, FastAPI, AWS, boto3 SDK
+[Tech Stack: Python, FastAPI, AWS, boto3 SDK]
 Designed a scalable image classification pipeline using FastAPI for the backend, AWS S3 for storage, and AWS SQS for autoscaling of the app tier and implemented an autoscaling mechanism to dynamically launch instances based on queue size, achieving a response time of 60 seconds for 150+ concurrent queries
 
 ### On-Device Visual Recommendation System
-#### Tech Stack: Python, TensorFlow Lite, OpenCL, Spark, SQL
+[Tech Stack: Python, TensorFlow Lite, OpenCL, Spark, SQL]
 Developed a visual search system for mobile devices using MobileClip by Apple, enabling image retrieval based on text prompts and deployed using Core ML and TensorFlow Lite, achieving inference time of 50-60ms per query
 
 ### Anomaly Detection for Spatial Data (Course Research Project)
 [link](https://github.com/Amarthya085/Anomaly-Detection/tree/master)
-#### Tech Stack: Generative Models, Image Processing
+[Tech Stack: Generative Models, Image Processing]
 Developed an anomaly detection system for spatial data using Masked Autoregressive Flows to generate synthetic negative images and combined with DeepLabV3+ ResNet101 for segmentation and anomaly detection
 
 ### TurtleBot Simulation (Course Project)
-#### Tech Stack: Python, AI, AI Planning (PDDL), Reinforcement Learning
+[Tech Stack: Python, AI, AI Planning (PDDL), Reinforcement Learning]
 Implemented A, custom A, and GBFS** search algorithms in a simulated environment for enhanced agent pathfinding utilizing PDDL planners to generate action sequences and reinforcement learning techniques for optimal pathfinding
 
+## Extracurricular Activities
+- Member of IEEE-HKN (Eta Kappa Nu Chapter)
+
+## Contact
+Email - amarthyakathula2002@gmail.com
